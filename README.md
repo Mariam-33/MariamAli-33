@@ -9,6 +9,12 @@
 - Frontend Developer at URUSystems (Remote, Ohio) - Jan 2024 to July 2024
 - Software Engineer at Devsinc (Onsite, Islamabad) - July 2022 to Dec 2023
 
+***Projects***
+- [***Carbify Frontend*** | Dashboard for Blockchain-based web application](https://dashboard.carbify.io/)
+- [***GolzTv*** | Soccer Streaming Platform](https://golz.tv//)
+- [***Maisonette Backend -  Klaviyo and Narvar Integrations*** | E-commerce website](https://www.maisonette.com/)
+- ***Way2Pay*** | Mobile Application to allow warehouses receive payements onsite
+
 ***Certifications***
 -  Coursera - IBM Data Engineering Essentials
 -  Coursera - Python for Data Science, AI, and Development
