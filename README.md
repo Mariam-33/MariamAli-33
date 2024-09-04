@@ -1,4 +1,4 @@
-- 👋 Hi, I am Mariam Ali, a ***Software Engineering*** graduate from SEECS,  
+- 👋 Hi, I am Mariam Ali, a ***Software Engineering*** graduate from SEECS, NUST
 - 👀 I’m interested in Web Development, Data Science and Machine Learning
 - 🌱 I’m currently working as Frontend and AI Developer
 - 📫 How to reach me ma.mariamali.2000@gmail.com
