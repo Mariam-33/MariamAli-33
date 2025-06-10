@@ -10,6 +10,7 @@
 - Software Engineer at Devsinc (Onsite, Islamabad) - July 2022 to Dec 2023
 
 ***Projects***
+- [***Qurk*** | Consolidated Dashboard for Financial Reporting](https://qurk.uk/)
 - [***Carbify Frontend*** | Dashboard for Blockchain-based web application](https://dashboard.carbify.io/)
 - [***GolzTv*** | Soccer Streaming Platform](https://golz.tv//)
 - [***Maisonette Backend -  Klaviyo and Narvar Integrations*** | E-commerce website](https://www.maisonette.com/)
